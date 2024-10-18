@@ -4,5 +4,5 @@
     <AppAlert>
       Welkom bij de mooiste club!
     </AppAlert>
-  </div>
+    </div>
 </template>
