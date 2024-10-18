@@ -63,3 +63,16 @@ const players: Player[] = [
   { playerName: "Mika Godts", position: "Aanvaller" }
 ];
 </script>
+
+<style>
+.players-section{
+    text-align: center;
+}
+
+.players-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 20px;
+    justify-content: center;
+}
+</style>

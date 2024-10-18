@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex h-12 bg-red-300 justify-between px-4 items-center">
+  <nav class="flex h-12 bg-[#d50000] justify-between px-4 items-center">
     <div class="flex">
       <img src="/img/Ajax-Emblema.png" alt="Ajax Logo" class="flex items-center w-20"/>
       <div class="flex flex-col">
